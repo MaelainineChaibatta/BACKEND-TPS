@@ -1,0 +1,65 @@
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction à Vue.js",
+      "body": "Vue.js est un framework JavaScript progressif très populaire pour construire des interfaces utilisateur modernes...",
+      "tags": ["vue", "javascript", "frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Pourquoi utiliser un blog ?",
+      "body": "Un blog permet de partager des idées, d'améliorer votre écriture, et de créer une présence en ligne...",
+      "tags": ["blog", "écriture", "communication"]
+    },
+    {
+      "id": 3,
+      "title": "Créer son premier composant",
+      "body": "Les composants Vue permettent de structurer votre application en éléments réutilisables...",
+      "tags": ["vue", "components", "débutant"]
+    },
+    {
+      "id": 4,
+      "title": "Les hooks du cycle de vie Vue",
+      "body": "Le cycle de vie d’un composant Vue comprend plusieurs étapes, dont created, mounted et updated...",
+      "tags": ["vue", "hooks", "lifecycle"]
+    },
+    {
+      "id": 5,
+      "title": "Comprendre les props",
+      "body": "Les props permettent de passer des données d’un composant parent à un composant enfant...",
+      "tags": ["vue", "props", "data"]
+    },
+    {
+      "id": 6,
+      "title": "Utiliser JSON-server",
+      "body": "JSON-server est un outil très pratique pour créer une API REST factice en quelques secondes...",
+      "tags": ["api", "json", "backend"]
+    },
+    {
+      "id": 7,
+      "title": "Ajouter un formulaire dans Vue",
+      "body": "Pour ajouter un nouveau post, vous pouvez utiliser v-model pour synchroniser les champs du formulaire...",
+      "tags": ["vue", "forms", "interaction"]
+    },
+    {
+      "id": 8,
+      "title": "Créer un système de tags",
+      "body": "Les tags permettent de regrouper les articles en fonction des thèmes et facilitent la navigation...",
+      "tags": ["tags", "blog", "navigation"]
+    },
+    {
+      "id": 9,
+      "title": "Comprendre le router Vue",
+      "body": "Vue Router permet de gérer la navigation entre différentes pages ou vues dans votre application...",
+      "tags": ["vue", "router", "navigation"]
+    },
+    {
+      "id": 10,
+      "title": "Déployer une application Vue",
+      "body": "Il existe plusieurs méthodes pour déployer une application Vue, comme Netlify, Vercel ou GitHub Pages...",
+      "tags": ["vue", "déploiement", "production"]
+    }
+  ]
+}
